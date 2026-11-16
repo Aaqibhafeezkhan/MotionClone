@@ -42,7 +42,7 @@ Render the result and report unresolved visual differences.
 
 ## Product facts and boundaries
 
-The repository download includes no AI access or credits. Users must connect their own ChatGPT/Codex account before generating; its costs, model access, and usage limits apply. The Editor combines selected reference segments and a brief for AI reconstruction. No API key is required by the documented local workflow. There is no assigned project-wide open-source license; do not imply blanket commercial or redistribution rights.
+The repository download includes no AI access or credits. Users must connect their own ChatGPT/Codex account before generating; its costs, model access, and usage limits apply. The Editor combines selected reference segments and a brief for AI reconstruction. No API key is required by the documented local workflow. MotionClone is released under the [MIT License](../LICENSE); third-party components keep their own licenses (see [THIRD_PARTY.md](../THIRD_PARTY.md) and [licenses/](../licenses/)). That license covers the code, not videos people import, so do not imply blanket rights over reference footage.
 
 Selected reference frames go to ChatGPT for analysis. Local project files and media stay on the user's computer. This is not an offline-only workflow. Use a reference the user owns or has permission to adapt.
 
