@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  🛠 <strong>Built in the open</strong> — 9 contributors · 21 good first issues · we review PRs within 24h → <a href="https://github.com/blixvip/MotionClone/issues/16">start here</a>
+  🛠 <strong>Built in the open</strong> — 10 contributors · 20 good first issues · we review PRs within 24h → <a href="https://github.com/blixvip/MotionClone/issues/16">start here</a>
 </p>
 
 <p align="center">
